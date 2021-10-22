@@ -7,3 +7,5 @@ S. W. Jolly, Focused fields of ultrashort radially polarized laser pulses having
 https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.033512
 
 (located as well on arXiv: https://arxiv.org/abs/2012.02729)
+
+Scripts and functions using fields within this framework to accelerate electrons can be found in the repository RPLB-acc (https://github.com/spencerjolly/RPLB-acc).
